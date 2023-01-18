@@ -1,0 +1,28 @@
+{
+  "parfumes": [
+    {
+      "name": "Lanvin Eclat D`Arpege",
+      "made_in": "France",
+      "gender": "for women",
+      "scent_type": "flower,green"
+    },
+    {
+      "name": "Giorgio Armani Si",
+      "made_in": "Italy",
+      "gender": "for women",
+      "scent_type": "chypre"
+    },
+    {
+      "name": "Calvin Klein Euphoria",
+      "made_in": "France, Spain",
+      "gender": "for women",
+      "scent_type": "flower, fruit"
+    },
+    {
+      "name": "Hugo Boss Boss Ma Vie Pour Femme",
+      "made_in": "Germany",
+      "gender": "for women",
+      "scent_type": "flower, woody"
+    }
+  ]
+}
